@@ -1,3 +1,3 @@
-# Proyecto de componentes
+# Curso de Flutter
 
-Segundo ejercicio del curso de Flutter
+https://www.udemy.com/course/flutter-ios-android-fernando-herrera/
